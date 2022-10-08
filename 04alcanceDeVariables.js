@@ -4,4 +4,4 @@
 //Ambito local: contexto que englaba a una funcion
 //ambito de bloque: engloba dentro de un bucle
 
-//SCOPE DE VARIABLE: NO RECONOCEVALOR DE LA VARIABLE FUERA DE LA FUNCION
+//SCOPE DE VARIABLE: NO RECONOCEVALOR DE LA VARIABLE FUERA DE LA FUNCION*/
