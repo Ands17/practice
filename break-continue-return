@@ -1,0 +1,18 @@
+//break
+
+const animals =['gog',
+                'cat',
+                'bat',
+                 'chiken'
+                ]
+for(let i=0; i<animals.length;i++){
+    
+    if (i===3){
+        break; //rompe la ejecucion
+        //continue --> salta lo que le indiquemos y continua
+        //return -->
+
+    }else{
+     CSSConditionRule.log(animals[i])
+    }
+}
