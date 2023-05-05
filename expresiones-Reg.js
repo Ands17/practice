@@ -37,3 +37,6 @@ let parrafo1= document.querySelector(".parrafo1")
 let newParrafo1= parrafo1.innerHTML.replace(/\d/g, "" )
 newParrafo1 = newParrafo1.replace(/\s\s/g, " ")
 console.log(newParrafo1)
+
+
+//cuantificadores..>busca una coincidencia con los carácteres repetidos, segun sea x o y {x,y}
